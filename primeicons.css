@@ -24,6 +24,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.pi-fw {
+    width: 1.28571429em;
+    text-align: center;
+}
+
 .pi-chevron-left:before {
   content: "\e900";
 }
