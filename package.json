@@ -1,6 +1,6 @@
 {
   "name": "primeicons",
-  "version": "1.0.0-beta.6",
+  "version": "1.0.0-beta.7-SNAPSHOT",
   "description": "Font Icon Library for Prime UI Libraries",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
