@@ -51,6 +51,14 @@
     }
 }
 
+.pi-refresh:before {
+    content: "\e938";
+  }
+  
+.pi-user:before {
+content: "\e939";
+}
+
 .pi-exclamation-triangle:before {
     content: "\e922";
 }
