@@ -51,12 +51,24 @@
     }
 }
 
+.pi-external-link:before {
+    content: "\e93c";
+}
+
+.pi-window-maximize:before {
+    content: "\e93b";
+}
+
+.pi-window-minimize:before {
+    content: "\e93a";
+}
+
 .pi-refresh:before {
     content: "\e938";
-  }
+}
   
 .pi-user:before {
-content: "\e939";
+    content: "\e939";
 }
 
 .pi-exclamation-triangle:before {
