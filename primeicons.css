@@ -51,6 +51,14 @@
     }
 }
 
+.pi-user-minus:before {
+    content: "\e93e";
+}
+
+.pi-user-plus:before {
+    content: "\e93f";
+}
+
 .pi-trash:before {
     content: "\e93d";
 }
