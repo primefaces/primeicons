@@ -51,6 +51,10 @@
     }
 }
 
+.pi-trash:before {
+    content: "\e93d";
+}
+
 .pi-external-link:before {
     content: "\e93c";
 }
