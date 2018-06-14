@@ -51,6 +51,10 @@
     }
 }
 
+.pi-users:before {
+    content: "\e941";
+}
+
 .pi-clock:before {
     content: "\e940";
 }
