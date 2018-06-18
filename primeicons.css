@@ -51,6 +51,10 @@
     }
 }
 
+.pi-pencil:before {
+    content: "\e942";
+}
+
 .pi-users:before {
     content: "\e941";
 }
