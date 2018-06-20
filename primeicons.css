@@ -51,6 +51,18 @@
     }
 }
 
+.pi-cloud-download:before {
+    content: "\e943";
+}
+
+.pi-cloud-upload:before {
+    content: "\e944";
+}
+
+.pi-cloud:before {
+    content: "\e945";
+}
+
 .pi-pencil:before {
     content: "\e942";
 }
