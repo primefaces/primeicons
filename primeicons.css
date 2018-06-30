@@ -51,6 +51,10 @@
     }
 }
 
+.pi-print:before {
+    content: "\e94b";
+}
+
 .pi-align-right:before {
     content: "\e946";
 }
