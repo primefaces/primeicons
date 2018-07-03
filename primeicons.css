@@ -51,6 +51,10 @@
     }
 }
 
+.pi-filter:before {
+    content: "\e94c";
+}
+
 .pi-print:before {
     content: "\e94b";
 }
