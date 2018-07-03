@@ -51,6 +51,14 @@
     }
 }
 
+.pi-bookmark:before {
+    content: "\e94e";
+}
+
+.pi-globe:before {
+    content: "\e94f";
+}
+
 .pi-replay:before {
     content: "\e94d";
 }
