@@ -51,6 +51,14 @@
     }
 }
 
+.pi-ellipsis-v:before {
+    content: "\e950";
+}
+
+.pi-ellipsis-h:before {
+    content: "\e951";
+}
+
 .pi-bookmark:before {
     content: "\e94e";
 }
