@@ -5,3 +5,7 @@
 ![alt text](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
 
 Font Icon Library for Prime UI Libraries
+
+---
+
+![alt text](https://www.primefaces.org/wp-content/uploads/2018/07/prime-icons.png "PrimeIcons")
