@@ -51,6 +51,10 @@
     }
 }
 
+.pi-clone:before {
+    content: "\e955";
+}
+
 .pi-calendar-times:before {
     content: "\e952";
 }
