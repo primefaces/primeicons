@@ -50,6 +50,13 @@
         transform: rotate(359deg);
     }
 }
+.pi-copy:before {
+    content: "\e957";
+}
+
+.pi-file:before {
+    content: "\e958";
+}
 
 .pi-clone:before {
     content: "\e955";
