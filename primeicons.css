@@ -231,6 +231,10 @@
     content: "\e934";
 }
 
+.pi-download:before {
+    content: "\e956";
+}
+
 .pi-ban:before {
     content: "\e935";
 }
