@@ -51,6 +51,18 @@
     }
 }
 
+.pi-calendar-times:before {
+    content: "\e952";
+}
+
+.pi-calendar-minus:before {
+    content: "\e953";
+}
+
+.pi-calendar-plus:before {
+    content: "\e954";
+}
+
 .pi-ellipsis-v:before {
     content: "\e950";
 }
