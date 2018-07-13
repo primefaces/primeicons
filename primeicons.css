@@ -50,6 +50,15 @@
         transform: rotate(359deg);
     }
 }
+
+.pi-question-circle:before {
+    content: "\e959";
+}
+
+.pi-question:before {
+    content: "\e95a";
+}
+
 .pi-copy:before {
     content: "\e957";
 }
