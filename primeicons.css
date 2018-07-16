@@ -51,6 +51,10 @@
     }
 }
 
+.pi-save:before {
+    content: "\e95b";
+}
+
 .pi-question-circle:before {
     content: "\e959";
 }
