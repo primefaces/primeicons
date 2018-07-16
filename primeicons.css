@@ -51,6 +51,10 @@
     }
 }
 
+.pi-power-off:before {
+    content: "\e95c";
+}
+
 .pi-save:before {
     content: "\e95b";
 }
