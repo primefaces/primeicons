@@ -51,6 +51,14 @@
     }
 }
 
+.pi-tags:before {
+    content: "\e95d";
+}
+
+.pi-tag:before {
+    content: "\e95e";
+}
+
 .pi-power-off:before {
     content: "\e95c";
 }
