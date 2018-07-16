@@ -51,6 +51,14 @@
     }
 }
 
+.pi-lock:before {
+    content: "\e95f";
+}
+
+.pi-unlock:before {
+    content: "\e960";
+}
+
 .pi-tags:before {
     content: "\e95d";
 }
