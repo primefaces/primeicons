@@ -51,6 +51,10 @@
     }
 }
 
+.pi-video:before {
+    content: "\e962";
+}
+
 .pi-inbox:before {
     content: "\e961";
 }
