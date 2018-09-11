@@ -1,7 +1,12 @@
+$primeng-font-primeicons-src: "fonts" !default;
+
 @font-face {
     font-family: 'PrimeIcons';
-    src: url('fonts/primeicons.eot');
-    src: url('fonts/primeicons.eot?#iefix') format('embedded-opentype'), url('fonts/primeicons.ttf') format('truetype'), url('fonts/primeicons.woff') format('woff'), url('fonts/primeicons.svg?#primeicons') format('svg');
+    src: url('#{$primeng-font-primeicons-src}/primeicons.eot');
+    src: url('#{$primeng-font-primeicons-src}/primeicons.eot?#iefix') format('embedded-opentype'),
+    url('#{$primeng-font-primeicons-src}/primeicons.ttf') format('truetype'),
+    url('#{$primeng-font-primeicons-src}/primeicons.woff') format('woff'),
+    url('#{$primeng-font-primeicons-src}/primeicons.svg?#primeicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
