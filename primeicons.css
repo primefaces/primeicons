@@ -50,6 +50,13 @@
         transform: rotate(359deg);
     }
 }
+.pi-eye-slash:before {
+    content: "\e965";
+}
+
+.pi-eye:before {
+    content: "\e966";
+}
 
 .pi-folder-open:before {
     content: "\e964";
