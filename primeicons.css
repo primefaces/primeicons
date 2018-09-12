@@ -50,6 +50,10 @@
         transform: rotate(359deg);
     }
 }
+.pi-list:before {
+    content: "\e967";
+}
+
 .pi-eye-slash:before {
     content: "\e965";
 }
