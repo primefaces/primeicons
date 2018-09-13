@@ -51,6 +51,10 @@
     }
 }
 
+.pi-dollar:before {
+    content: "\e96b";
+}
+
 .pi-lock-open:before {
     content: "\e96a";
 }
