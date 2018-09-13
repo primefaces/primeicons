@@ -50,6 +50,11 @@
         transform: rotate(359deg);
     }
 }
+
+.pi-map-marker:before {
+    content: "\e968";
+}
+
 .pi-list:before {
     content: "\e967";
 }
