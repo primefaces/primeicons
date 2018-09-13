@@ -51,6 +51,10 @@
     }
 }
 
+.pi-table:before {
+    content: "\e969";
+}
+
 .pi-map-marker:before {
     content: "\e968";
 }
