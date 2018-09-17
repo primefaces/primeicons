@@ -51,6 +51,10 @@
     }
 }
 
+.pi-wifi:before {
+    content: "\e96f";
+}
+
 .pi-sitemap:before {
     content: "\e96e";
 }
