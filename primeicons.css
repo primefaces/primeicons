@@ -51,6 +51,10 @@
     }
 }
 
+.pi-sitemap:before {
+    content: "\e96e";
+}
+
 .pi-chart-bar:before {
     content: "\e96d";
 }
