@@ -51,6 +51,10 @@
     }
 }
 
+.pi-chart-bar:before {
+    content: "\e96d";
+}
+
 .pi-camera:before {
     content: "\e96c";
 }
