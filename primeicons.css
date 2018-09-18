@@ -51,6 +51,14 @@
     }
 }
 
+.pi-sign-in:before {
+    content: "\e970";
+}
+
+.pi-sign-out:before {
+    content: "\e971";
+}
+
 .pi-wifi:before {
     content: "\e96f";
 }
