@@ -51,6 +51,10 @@
     }
 }
 
+.pi-money-bill:before {
+    content: "\e974";
+}
+
 .pi-images:before {
     content: "\e973";
 }
