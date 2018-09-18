@@ -51,6 +51,10 @@
     }
 }
 
+.pi-image:before {
+    content: "\e972";
+}
+
 .pi-sign-in:before {
     content: "\e970";
 }
