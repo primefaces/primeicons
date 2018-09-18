@@ -51,6 +51,18 @@
     }
 }
 
+.pi-volume-down:before {
+    content: "\e976";
+}
+
+.pi-volume-up:before {
+    content: "\e977";
+}
+
+.pi-volume-off:before {
+    content: "\e978";
+}
+
 .pi-eject:before {
     content: "\e975";
 }
