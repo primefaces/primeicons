@@ -51,6 +51,10 @@
     }
 }
 
+.pi-bell:before {
+    content: "\e97c";
+}
+
 .pi-paperclip:before {
     content: "\e97b";
 }
