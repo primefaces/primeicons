@@ -51,6 +51,10 @@
     }
 }
 
+.pi-paperclip:before {
+    content: "\e97b";
+}
+
 .pi-share-alt:before {
     content: "\e97a";
 }
