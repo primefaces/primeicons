@@ -51,6 +51,10 @@
     }
 }
 
+.pi-key:before {
+    content: "\e981";
+}
+
 .pi-shopping-cart:before {
     content: "\e980";
 }
