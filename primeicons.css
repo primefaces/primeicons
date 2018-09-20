@@ -51,6 +51,10 @@
     }
 }
 
+.pi-briefcase:before {
+    content: "\e97d";
+}
+
 .pi-bell:before {
     content: "\e97c";
 }
