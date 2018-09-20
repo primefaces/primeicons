@@ -51,6 +51,10 @@
     }
 }
 
+.pi-shopping-cart:before {
+    content: "\e980";
+}
+
 .pi-comments:before {
     content: "\e97e";
 }
