@@ -51,6 +51,14 @@
     }
 }
 
+.pi-comments:before {
+    content: "\e97e";
+}
+
+.pi-comment:before {
+    content: "\e97f";
+}
+
 .pi-briefcase:before {
     content: "\e97d";
 }
