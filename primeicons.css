@@ -51,6 +51,14 @@
     }
 }
 
+.pi-mobile:before {
+    content: "\e982";
+}
+
+.pi-tablet:before {
+    content: "\e983";
+}
+
 .pi-key:before {
     content: "\e981";
 }
