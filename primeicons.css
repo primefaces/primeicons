@@ -51,6 +51,10 @@
     }
 }
 
+.pi-heart:before {
+    content: "\e984";
+}
+
 .pi-mobile:before {
     content: "\e982";
 }
