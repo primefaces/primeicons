@@ -6,7 +6,7 @@
 
 ![alt text](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
 
-Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/primeng/#/icons/) | [PrimeNG](https://www.primefaces.org/primereact/#/icons/) | [PrimeFaces](http://primefaces.org/showcase/ui/misc/primeicons.xhtml)
+Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/primeng/#/icons/) | [PrimeReact](https://www.primefaces.org/primereact/#/icons/) | [PrimeFaces](http://primefaces.org/showcase/ui/misc/primeicons.xhtml)
 
 ---
 
