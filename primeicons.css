@@ -51,6 +51,22 @@
     }
 }
 
+.pi-android:before {
+    content: "\e985";
+}
+
+.pi-google:before {
+    content: "\e986";
+}
+
+.pi-apple:before {
+    content: "\e987";
+}
+
+.pi-microsoft:before {
+    content: "\e988";
+}
+
 .pi-heart:before {
     content: "\e984";
 }
