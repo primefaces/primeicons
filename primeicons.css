@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'PrimeIcons';
+    font-display: auto;
     src: url('fonts/primeicons.eot');
     src: url('fonts/primeicons.eot?#iefix') format('embedded-opentype'), url('fonts/primeicons.ttf') format('truetype'), url('fonts/primeicons.woff') format('woff'), url('fonts/primeicons.svg?#primeicons') format('svg');
     font-weight: normal;
