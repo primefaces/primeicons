@@ -52,6 +52,10 @@
     }
 }
 
+.pi-check-square:before {
+    content: "\e98c";
+}
+
 .pi-chart-line:before {
     content: "\e98b";
 }
