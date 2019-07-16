@@ -52,6 +52,14 @@
     }
 }
 
+.pi-search-plus:before {
+    content: "\e98f";
+}
+
+.pi-search-minus:before {
+    content: "\e990";
+}
+
 .pi-file-excel:before {
     content: "\e98e";
 }
