@@ -52,6 +52,10 @@
     }
 }
 
+.pi-palette:before {
+    content: "\e995";
+}
+
 .pi-undo:before {
     content: "\e994";
 }
