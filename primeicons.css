@@ -51,6 +51,11 @@
         transform: rotate(359deg);
     }
 }
+
+.pi-undo:before {
+    content: "\e994";
+}
+
 .pi-desktop:before {
     content: "\e993";
 }
