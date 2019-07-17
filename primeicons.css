@@ -52,6 +52,14 @@
     }
 }
 
+.pi-sliders-v:before {
+    content: "\e991";
+}
+
+.pi-sliders-h:before {
+    content: "\e992";
+}
+
 .pi-search-plus:before {
     content: "\e98f";
 }
