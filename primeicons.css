@@ -51,6 +51,9 @@
         transform: rotate(359deg);
     }
 }
+.pi-desktop:before {
+    content: "\e993";
+}
 
 .pi-sliders-v:before {
     content: "\e991";
