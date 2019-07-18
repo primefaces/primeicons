@@ -4,10 +4,10 @@
 
 ---
 
-![alt text](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
+![PrimeIcons Logo](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
 
-Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/primeng/#/icons/) | [PrimeReact](https://www.primefaces.org/primereact/#/icons/) | [PrimeFaces](http://primefaces.org/showcase/ui/misc/primeicons.xhtml)
+Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/primeng/#/icons/) | [PrimeReact](https://www.primefaces.org/primereact/#/icons/) | [PrimeFaces](https://primefaces.org/showcase/ui/misc/primeicons.xhtml) | [PrimeVue](https://primefaces.org/primevue/#/icons) 
 
 ---
 
-![alt text](https://www.primefaces.org/wp-content/uploads/2018/09/prime-icons-130.png "PrimeIcons")
+![Icons Preview](https://www.primefaces.org/wp-content/uploads/2019/07/prime-icons-150.png "PrimeIcons")
