@@ -52,6 +52,14 @@
     }
 }
 
+.pi-thumbs-up:before {
+    content: "\e9a3";
+}
+
+.pi-thumbs-down:before {
+    content: "\e9a4";
+}
+
 .pi-sort-numeric-down-alt:before {
     content: "\e996";
 }
