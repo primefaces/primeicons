@@ -52,6 +52,10 @@
     }
 }
 
+.pi-ticket:before {
+    content: "\e9a9";
+}
+
 .pi-file-o:before {
     content: "\e9a8";
 }
