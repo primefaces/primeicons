@@ -52,6 +52,10 @@
     }
 }
 
+.pi-reply:before {
+    content: "\e9a7";
+}
+
 .pi-directions-alt:before {
     content: "\e9a5";
 }
