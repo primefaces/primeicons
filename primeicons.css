@@ -52,6 +52,10 @@
     }
 }
 
+.pi-id-card:before {
+    content: "\e9aa";
+}
+
 .pi-ticket:before {
     content: "\e9a9";
 }
