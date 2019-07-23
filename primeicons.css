@@ -52,6 +52,14 @@
     }
 }
 
+.pi-directions-alt:before {
+    content: "\e9a5";
+}
+
+.pi-directions:before {
+    content: "\e9a6";
+}
+
 .pi-thumbs-up:before {
     content: "\e9a3";
 }
