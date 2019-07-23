@@ -52,6 +52,10 @@
     }
 }
 
+.pi-file-o:before {
+    content: "\e9a8";
+}
+
 .pi-reply:before {
     content: "\e9a7";
 }
