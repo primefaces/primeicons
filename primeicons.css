@@ -52,6 +52,10 @@
     }
 }
 
+.pi-compass:before {
+    content: "\e9ab";
+}
+
 .pi-id-card:before {
     content: "\e9aa";
 }
