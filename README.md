@@ -9,4 +9,4 @@ Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/p
 
 ---
 
-![Icons Preview](https://www.primefaces.org/wp-content/uploads/2019/07/primeicons-180.png "PrimeIcons")
+![Icons Preview](https://www.primefaces.org/wp-content/uploads/2020/05/primeicons-40-1.png "PrimeIcons")
