@@ -52,6 +52,18 @@
     }
 }
 
+.pi-facebook:before {
+    content: "\e9b4";
+}
+
+.pi-github:before {
+    content: "\e9b5";
+}
+
+.pi-twitter:before {
+    content: "\e9b6";
+}
+
 .pi-step-backward-alt:before {
     content: "\e9ac";
 }
