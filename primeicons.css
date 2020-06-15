@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'PrimeIcons';
+    font-family: 'primeicons';
     font-display: auto;
     src: url('./fonts/primeicons.eot');
     src: url('./fonts/primeicons.eot?#iefix') format('embedded-opentype'), url('./fonts/primeicons.ttf') format('truetype'), url('./fonts/primeicons.woff') format('woff'), url('./fonts/primeicons.svg?#primeicons') format('svg');
@@ -18,6 +18,11 @@
     display: inline-block;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+.pi:before {
+    --webkit-backface-visibility:hidden;
+    backface-visibility: hidden;
 }
 
 .pi-fw {
