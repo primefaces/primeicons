@@ -57,6 +57,10 @@
     }
 }
 
+.pi-phone:before {
+    content: "\e9b8";
+}
+
 .pi-filter-slash:before {
     content: "\e9b7";
 }
