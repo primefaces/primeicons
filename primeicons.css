@@ -57,6 +57,10 @@
     }
 }
 
+.pi-link:before {
+    content: "\e9c1";
+}
+
 .pi-credit-card:before {
     content: "\e9bf";
 }
