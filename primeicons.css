@@ -57,6 +57,14 @@
     }
 }
 
+.pi-credit-card:before {
+    content: "\e9bf";
+}
+
+.pi-discord:before {
+    content: "\e9c0";
+}
+
 .pi-percentage:before {
     content: "\e9be";
 }
