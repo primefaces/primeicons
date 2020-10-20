@@ -57,6 +57,10 @@
     }
 }
 
+.pi-euro:before {
+    content: "\e9bd";
+}
+
 .pi-book:before {
     content: "\e9ba";
 }
