@@ -57,6 +57,10 @@
     }
 }
 
+.pi-percentage:before {
+    content: "\e9be";
+}
+
 .pi-euro:before {
     content: "\e9bd";
 }
