@@ -57,6 +57,22 @@
     }
 }
 
+.pi-book:before {
+    content: "\e9ba";
+}
+
+.pi-shield:before {
+    content: "\e9b9";
+}
+
+.pi-paypal:before {
+    content: "\e9bb";
+}
+
+.pi-amazon:before {
+    content: "\e9bc";
+}
+
 .pi-phone:before {
     content: "\e9b8";
 }
