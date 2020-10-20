@@ -57,6 +57,10 @@
     }
 }
 
+.pi-filter-slash:before {
+    content: "\e9b7";
+}
+
 .pi-facebook:before {
     content: "\e9b4";
 }
