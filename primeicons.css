@@ -57,6 +57,10 @@
     }
 }
 
+.pi-flag:before {
+    content: "\e9c4";
+}
+
 .pi-wallet:before {
     content: "\e9c3";
 }
