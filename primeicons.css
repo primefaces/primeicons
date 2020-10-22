@@ -57,6 +57,14 @@
     }
 }
 
+.pi-vimeo:before {
+    content: "\e9c6";
+}
+
+.pi-youtube:before {
+    content: "\e9c5";
+}
+
 .pi-flag:before {
     content: "\e9c4";
 }
