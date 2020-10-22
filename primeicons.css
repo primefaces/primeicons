@@ -57,6 +57,10 @@
     }
 }
 
+.pi-send:before {
+    content: "\e9ca";
+}
+
 .pi-slack:before {
     content: "\e9c9";
 }
