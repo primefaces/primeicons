@@ -57,6 +57,14 @@
     }
 }
 
+.pi-sun:before {
+    content: "\e9c8";
+}
+
+.pi-moon:before {
+    content: "\e9c7";
+}
+
 .pi-vimeo:before {
     content: "\e9c6";
 }
