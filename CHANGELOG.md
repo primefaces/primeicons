@@ -6,7 +6,6 @@
 
 **New Icons:**
 
-- Add inverse "pi-sort" icon \(as "pi-sort-inverse"\) [\#151](https://github.com/primefaces/primeicons/issues/151)
 - Add "slack" icon [\#294](https://github.com/primefaces/primeicons/issues/294)
 - Add "youtube" icon [\#288](https://github.com/primefaces/primeicons/issues/288)
 - Add "vimeo" icon [\#276](https://github.com/primefaces/primeicons/issues/276)
