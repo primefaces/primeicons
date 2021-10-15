@@ -57,6 +57,10 @@
     }
 }
 
+.pi-linkedin:before {
+    content: "\e9cb";
+}
+
 .pi-send:before {
     content: "\e9ca";
 }
