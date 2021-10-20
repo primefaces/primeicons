@@ -57,6 +57,10 @@
     }
 }
 
+.pi-instagram:before {
+    content: "\e9cc";
+}
+
 .pi-linkedin:before {
     content: "\e9cb";
 }
