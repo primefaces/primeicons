@@ -57,6 +57,10 @@
     }
 }
 
+.pi-qrcode:before {
+    content: "\e9ce";
+}
+
 .pi-car:before {
     content: "\e9cd";
 }
