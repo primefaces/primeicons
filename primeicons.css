@@ -57,6 +57,10 @@
     }
 }
 
+.pi-stop-circle:before {
+    content: "\e9d2";
+}
+
 .pi-stop:before {
     content: "\e9d1";
 }
