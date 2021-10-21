@@ -57,6 +57,10 @@
     }
 }
 
+.pi-building:before {
+    content: "\e9cf";
+}
+
 .pi-qrcode:before {
     content: "\e9ce";
 }
