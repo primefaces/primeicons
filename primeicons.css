@@ -57,6 +57,10 @@
     }
 }
 
+.pi-stop:before {
+    content: "\e9d1";
+}
+
 .pi-whatsapp:before {
     content: "\e9d0";
 }
