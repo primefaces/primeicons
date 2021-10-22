@@ -57,6 +57,10 @@
     }
 }
 
+.pi-bolt:before {
+    content: "\e9db";
+}
+
 .pi-history:before {
     content: "\e9da";
 }
