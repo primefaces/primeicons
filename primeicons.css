@@ -57,6 +57,10 @@
     }
 }
 
+.pi-history:before {
+    content: "\e9da";
+}
+
 .pi-box:before {
     content: "\e9d9";
 }
