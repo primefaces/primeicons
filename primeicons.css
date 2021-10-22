@@ -57,6 +57,10 @@
     }
 }
 
+.pi-at:before {
+    content: "\e9d8";
+}
+
 .pi-arrow-up-right:before {
     content: "\e9d4";
 }
