@@ -57,6 +57,10 @@
     }
 }
 
+.pi-database:before {
+    content: "\e9e3";
+}
+
 .pi-hashtag:before {
     content: "\e9e2";
 }
