@@ -57,6 +57,10 @@
     }
 }
 
+.pi-code:before {
+    content: "\e9e7";
+}
+
 .pi-sync:before {
     content: "\e9e6";
 }
