@@ -57,6 +57,10 @@
     }
 }
 
+.pi-reddit:before {
+    content: "\e9e8";
+}
+
 .pi-code:before {
     content: "\e9e7";
 }
