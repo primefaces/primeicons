@@ -57,6 +57,11 @@
     }
 }
 
+.pi-chart-pie:before {
+    content: "\e9e9";
+}
+
+
 .pi-reddit:before {
     content: "\e9e8";
 }
