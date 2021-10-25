@@ -57,6 +57,10 @@
     }
 }
 
+.pi-hashtag:before {
+    content: "\e9e2";
+}
+
 .pi-bookmark-fill:before {
     content: "\e9df";
 }
