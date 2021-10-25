@@ -57,6 +57,18 @@
     }
 }
 
+.pi-bookmark-fill:before {
+    content: "\e9df";
+}
+
+.pi-filter-fill:before {
+    content: "\e9e0";
+}
+
+.pi-heart-fill:before {
+    content: "\e9e1";
+}
+
 .pi-flag-fill:before {
     content: "\e9de";
 }
