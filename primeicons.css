@@ -57,6 +57,10 @@
     }
 }
 
+.pi-flag-fill:before {
+    content: "\e9de";
+}
+
 .pi-circle:before {
     content: "\e9dc";
 }
