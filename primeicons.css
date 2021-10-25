@@ -57,6 +57,14 @@
     }
 }
 
+.pi-circle:before {
+    content: "\e9dc";
+}
+
+.pi-circle-fill:before {
+    content: "\e9dd";
+}
+
 .pi-bolt:before {
     content: "\e9db";
 }
@@ -777,7 +785,7 @@
     content: "\e935";
 }
 
-.pi-star-o:before {
+.pi-star-fill:before {
     content: "\e936";
 }
 
