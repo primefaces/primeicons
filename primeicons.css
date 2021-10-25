@@ -57,6 +57,10 @@
     }
 }
 
+.pi-sync:before {
+    content: "\e9e6";
+}
+
 .pi-shopping-bag:before {
     content: "\e9e5";
 }
