@@ -57,6 +57,10 @@
     }
 }
 
+.pi-server:before {
+    content: "\e9e4";
+}
+
 .pi-database:before {
     content: "\e9e3";
 }
