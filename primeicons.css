@@ -57,6 +57,10 @@
     }
 }
 
+.pi-pound:before {
+    content: "\e9eb";
+}
+
 .pi-prime:before {
     content: "\e9ea";
 }
