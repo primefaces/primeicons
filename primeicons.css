@@ -57,6 +57,14 @@
     }
 }
 
+.pi-arrows-h:before {
+    content: "\e9ec";
+}
+
+.pi-arrows-v:before {
+    content: "\e9ed";
+}
+
 .pi-pound:before {
     content: "\e9eb";
 }
