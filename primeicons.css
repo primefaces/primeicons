@@ -57,10 +57,13 @@
     }
 }
 
+.pi-prime:before {
+    content: "\e9ea";
+}
+
 .pi-chart-pie:before {
     content: "\e9e9";
 }
-
 
 .pi-reddit:before {
     content: "\e9e8";
