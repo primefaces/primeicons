@@ -1,11 +1,67 @@
 # Changelog
 
+## [5.0.0](https://github.com/primefaces/primeicons/tree/5.0.0) (2021-11-04)
+
+[Full Changelog](https://github.com/primefaces/primeicons/compare/4.1.0...5.0.0)
+
+**Breaking changes:**
+
+- Rename circle and star icons, remove "-o" postfix, add new "-fill" postfix icons [\#514](https://github.com/primefaces/primeicons/issues/514)
+
+**Implemented New Features and Enhancements:**
+
+- Add "filter-fill" icon [\#512](https://github.com/primefaces/primeicons/issues/512)
+- Add "flag-filled" icon [\#364](https://github.com/primefaces/primeicons/issues/364)
+- Improve lock icons [\#339](https://github.com/primefaces/primeicons/issues/339)
+- Add "swap" icon [\#335](https://github.com/primefaces/primeicons/issues/335)
+- Add "Instagram" icon [\#334](https://github.com/primefaces/primeicons/issues/334)
+- Add filled versions of icons [\#310](https://github.com/primefaces/primeicons/issues/310)
+- Add "qr" icon [\#277](https://github.com/primefaces/primeicons/issues/277)
+- Add "car" icon [\#129](https://github.com/primefaces/primeicons/issues/129)
+- Add "arrows-v" icon [\#516](https://github.com/primefaces/primeicons/issues/516)
+- Add "Prime" icon [\#515](https://github.com/primefaces/primeicons/issues/515)
+- Add "bookmark-fill" icon [\#511](https://github.com/primefaces/primeicons/issues/511)
+- Add "heart-fill" icon [\#510](https://github.com/primefaces/primeicons/issues/510)
+- Add "flag-fill" icon [\#509](https://github.com/primefaces/primeicons/issues/509)
+- Add "arrow-down-right" icon [\#505](https://github.com/primefaces/primeicons/issues/505)
+- Add "arrow-down-left" icon [\#504](https://github.com/primefaces/primeicons/issues/504)
+- Add "arrow-up-right" icon [\#503](https://github.com/primefaces/primeicons/issues/503)
+- Add "arrow-up-left" icon [\#502](https://github.com/primefaces/primeicons/issues/502)
+- Add "stop" icon [\#500](https://github.com/primefaces/primeicons/issues/500)
+- Add "server" icon [\#485](https://github.com/primefaces/primeicons/issues/485)
+- Add "shopping-bag" icon [\#470](https://github.com/primefaces/primeicons/issues/470)
+- Add "bolt" icon [\#468](https://github.com/primefaces/primeicons/issues/468)
+- Add missing import css from install instructions [\#464](https://github.com/primefaces/primeicons/issues/464)
+- Add "sync" icon [\#462](https://github.com/primefaces/primeicons/issues/462)
+- Add "Instagram" icon [\#455](https://github.com/primefaces/primeicons/issues/455)
+- Add "pi-sort-alt-slash" icon [\#452](https://github.com/primefaces/primeicons/issues/452)
+- Add "chart-pie" icon [\#414](https://github.com/primefaces/primeicons/issues/414)
+- Add "at" icon [\#404](https://github.com/primefaces/primeicons/issues/404)
+- Add "database" icon [\#392](https://github.com/primefaces/primeicons/issues/392)
+- Add "car" icon [\#388](https://github.com/primefaces/primeicons/issues/388)
+- Add "qrcode" icon [\#387](https://github.com/primefaces/primeicons/issues/387)
+- Add some icons with a filled inside \(Thumbs up, down, heart, half-star\) [\#384](https://github.com/primefaces/primeicons/issues/384)
+- Add "code" icon [\#381](https://github.com/primefaces/primeicons/issues/381)
+- Add "Telegram" icon [\#368](https://github.com/primefaces/primeicons/issues/368)
+- Google LightHouse: font-display:block [\#361](https://github.com/primefaces/primeicons/issues/361)
+- Add "Reddit" icon [\#312](https://github.com/primefaces/primeicons/issues/312)
+- Add "Whatsapp" icon [\#311](https://github.com/primefaces/primeicons/issues/311)
+- Add "arrows-h" icon [\#309](https://github.com/primefaces/primeicons/issues/309)
+- Add "linkedin" icon [\#308](https://github.com/primefaces/primeicons/issues/308)
+- Add "box" icon [\#264](https://github.com/primefaces/primeicons/issues/264)
+- Add "hashtag" icon [\#259](https://github.com/primefaces/primeicons/issues/259)
+- Add "history" icon [\#247](https://github.com/primefaces/primeicons/issues/247)
+- Add "building" icon [\#236](https://github.com/primefaces/primeicons/issues/236)
+- Add "pound" icon [\#226](https://github.com/primefaces/primeicons/issues/226)
+- Add "stop-circle" icon  [\#214](https://github.com/primefaces/primeicons/issues/214)
+
 ## [4.1.0](https://github.com/primefaces/primeicons/tree/4.1.0) (2020-11-18)
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/4.0.0...4.1.0)
 
-**New Icons:**
+**Implemented New Features and Enhancements:**
 
+- Add inverse "pi-sort" icon \(as "pi-sort-inverse"\) [\#151](https://github.com/primefaces/primeicons/issues/151)
 - Add "slack" icon [\#294](https://github.com/primefaces/primeicons/issues/294)
 - Add "youtube" icon [\#288](https://github.com/primefaces/primeicons/issues/288)
 - Add "vimeo" icon [\#276](https://github.com/primefaces/primeicons/issues/276)
@@ -49,7 +105,7 @@
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/2.0.0...3.0.0-rc.1)
 
-**New Icons:**
+**Implemented New Features and Enhancements:**
 
 - Fix issues of arrow, chevron and angle icon families [\#227](https://github.com/primefaces/primeicons/issues/227)
 
@@ -57,7 +113,7 @@
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/1.0.0...2.0.0)
 
-**New Icons:**
+**Implemented New Features and Enhancements:**
 
 - Controlling Font Performance with font-display [\#164](https://github.com/primefaces/primeicons/issues/164)
 - Add "apple" icon [\#125](https://github.com/primefaces/primeicons/issues/125)
@@ -96,7 +152,7 @@
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/705daae329840f6e935a2dde0ea7d5b2705de5c4...1.0.0)
 
-**New Icons:**
+**Implemented New Features and Enhancements:**
 
 - Add "smartphone" icon [\#127](https://github.com/primefaces/primeicons/issues/127)
 - Add "tablet" icon [\#126](https://github.com/primefaces/primeicons/issues/126)
