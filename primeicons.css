@@ -57,6 +57,10 @@
     }
 }
 
+.pi-calculator:before {
+    content: "\e9ef";
+}
+
 .pi-sort-alt-slash:before {
     content: "\e9ee";
 }
