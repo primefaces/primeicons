@@ -57,6 +57,14 @@
     }
 }
 
+.pi-hourglass:before {
+    content: "\e9fe";
+}
+
+.pi-truck:before {
+    content: "\ea00";
+}
+
 .pi-wrench:before {
     content: "\e9ff";
 }
