@@ -57,6 +57,22 @@
     }
 }
 
+.pi-file-edit:before {
+    content: "\e9f6";
+}
+
+.pi-language:before {
+    content: "\e9f7";
+}
+
+.pi-file-export:before {
+    content: "\e9f8";
+}
+
+.pi-file-import:before {
+    content: "\e9f9";
+}
+
 .pi-file-word:before {
     content: "\e9f1";
 }
