@@ -57,6 +57,18 @@
     }
 }
 
+.pi-stopwatch:before {
+    content: "\ea01";
+}
+
+.pi-verified:before {
+    content: "\ea02";
+}
+
+.pi-delete-left:before {
+    content: "\ea03";
+}
+
 .pi-hourglass:before {
     content: "\e9fe";
 }
