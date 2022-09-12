@@ -57,6 +57,22 @@
     }
 }
 
+.pi-microphone:before {
+    content: "\e9fa";
+}
+
+.pi-megaphone:before {
+    content: "\e9fb";
+}
+
+.pi-arrow-right-arrow-left:before {
+    content: "\e9fc";
+}
+
+.pi-bitcoin:before {
+    content: "\e9fd";
+}
+
 .pi-file-edit:before {
     content: "\e9f6";
 }
