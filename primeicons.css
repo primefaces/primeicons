@@ -57,6 +57,10 @@
     }
 }
 
+.pi-wrench:before {
+    content: "\e9ff";
+}
+
 .pi-microphone:before {
     content: "\e9fa";
 }
