@@ -57,6 +57,10 @@
     }
 }
 
+.pi-eraser:before {
+    content: "\ea04";
+}
+
 .pi-stopwatch:before {
     content: "\ea01";
 }
