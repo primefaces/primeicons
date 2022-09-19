@@ -16,26 +16,24 @@
 - Add "file-edit" icon [\#570](https://github.com/primefaces/primeicons/issues/570)
 - Add "file-word" icon [\#567](https://github.com/primefaces/primeicons/issues/567)
 - Add "file-import" icon [\#545](https://github.com/primefaces/primeicons/issues/545)
-- Update readme.md with new icons [\#529](https://github.com/primefaces/primeicons/issues/529)
-- Add tag for deprecate icons to selection.json [\#527](https://github.com/primefaces/primeicons/issues/527)
 - Add "verified" icon [\#496](https://github.com/primefaces/primeicons/issues/496)
 - Add "wrench" icon [\#494](https://github.com/primefaces/primeicons/issues/494)
 - Add "hourglass" icon [\#491](https://github.com/primefaces/primeicons/issues/491)
 - Add "megaphone" icon [\#400](https://github.com/primefaces/primeicons/issues/400)
 - Add "file-export" icon  [\#369](https://github.com/primefaces/primeicons/issues/369)
 - Add "microphone" icon [\#360](https://github.com/primefaces/primeicons/issues/360)
-- Add "restaurant" icon [\#359](https://github.com/primefaces/primeicons/issues/359)
 - Add "cart-plus" icon [\#326](https://github.com/primefaces/primeicons/issues/326)
-- Add "Bitcoin" icon [\#321](https://github.com/primefaces/primeicons/issues/321)
-- What about woff2 format? [\#301](https://github.com/primefaces/primeicons/issues/301)
+- Add "bitcoin" icon [\#321](https://github.com/primefaces/primeicons/issues/321)
 - Add "eraser" icon [\#287](https://github.com/primefaces/primeicons/issues/287)
 - Add "arrows-alt" icon  [\#272](https://github.com/primefaces/primeicons/issues/272)
 - Add "truck" icon [\#265](https://github.com/primefaces/primeicons/issues/265)
-- Add "car" icon [\#243](https://github.com/primefaces/primeicons/issues/243)
 - Add "calculator" icon [\#193](https://github.com/primefaces/primeicons/issues/193)
+- Add woff2 format support[\#301](https://github.com/primefaces/primeicons/issues/301)
+- Update readme.md with new icons [\#529](https://github.com/primefaces/primeicons/issues/529)
 
 **Fixed bugs:**
 
+- Update "Discord" icon [\688](https://github.com/primefaces/primeicons/issues/688)
 - Fix "exclamation-triangle" icon [\#795](https://github.com/primefaces/primeicons/issues/795)
 - Fix "sort-amount-up-alt" icon [\#794](https://github.com/primefaces/primeicons/issues/794)
 - Fix "sort-amount-down-alt" icon [\#793](https://github.com/primefaces/primeicons/issues/793)
@@ -64,7 +62,6 @@
 - Fix "question-circle" icon [\#768](https://github.com/primefaces/primeicons/issues/768)
 - Fix "palette" icon [\#767](https://github.com/primefaces/primeicons/issues/767)
 - Fix "calendar" icon [\#766](https://github.com/primefaces/primeicons/issues/766)
-- Add missing 'pi-server' file to PrimeIcons Constants [\#556](https://github.com/primefaces/primeicons/issues/556)
 
 ## [5.0.0](https://github.com/primefaces/primeicons/tree/5.0.0) (2021-11-04)
 
