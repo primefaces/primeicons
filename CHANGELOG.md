@@ -28,7 +28,7 @@
 - Add "arrows-alt" icon  [\#272](https://github.com/primefaces/primeicons/issues/272)
 - Add "truck" icon [\#265](https://github.com/primefaces/primeicons/issues/265)
 - Add "calculator" icon [\#193](https://github.com/primefaces/primeicons/issues/193)
-- Add woff2 format support[\#301](https://github.com/primefaces/primeicons/issues/301)
+- Add woff2 format support [\#301](https://github.com/primefaces/primeicons/issues/301)
 - Update readme.md with new icons [\#529](https://github.com/primefaces/primeicons/issues/529)
 
 **Fixed bugs:**
