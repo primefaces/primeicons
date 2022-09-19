@@ -33,7 +33,7 @@
 
 **Fixed bugs:**
 
-- Update "Discord" icon [\688](https://github.com/primefaces/primeicons/issues/688)
+- Update "Discord" icon [\#688](https://github.com/primefaces/primeicons/issues/688)
 - Fix "exclamation-triangle" icon [\#795](https://github.com/primefaces/primeicons/issues/795)
 - Fix "sort-amount-up-alt" icon [\#794](https://github.com/primefaces/primeicons/issues/794)
 - Fix "sort-amount-down-alt" icon [\#793](https://github.com/primefaces/primeicons/issues/793)
