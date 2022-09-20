@@ -1,5 +1,14 @@
 # Changelog
 
+
+## [6.0.1](https://github.com/primefaces/primeicons/tree/6.0.1) (2022-09-20)
+
+[Full Changelog](https://github.com/primefaces/primeicons/compare/6.0.0...6.0.1)
+
+**Fixed bugs:**
+
+- Fix "cart-plus" and "gift" icons  [\#804](https://github.com/primefaces/primeicons/issues/804)
+
 ## [6.0.0](https://github.com/primefaces/primeicons/tree/6.0.0) (2022-09-19)
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/5.0.0...6.0.0)
