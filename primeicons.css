@@ -122,11 +122,11 @@
 }
 
 .pi-gift:before {
-    content: "\e9f3";
+    content: "\e9f2";
 }
 
 .pi-cart-plus:before {
-    content: "\e9f4";
+    content: "\e9f3";
 }
 
 .pi-thumbs-down-fill:before {
