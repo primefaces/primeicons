@@ -57,6 +57,10 @@
     }
 }
 
+.pi-star-half:before {
+    content: "\ea05";
+}
+
 .pi-eraser:before {
     content: "\ea04";
 }
