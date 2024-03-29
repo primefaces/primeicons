@@ -1,6 +1,6 @@
 # Changelog
 
-## [7.0.0](https://github.com/primefaces/primeicons/tree/7.0.0) (2024-03-21)
+## [7.0.0](https://github.com/primefaces/primeicons/tree/7.0.0) (2024-03-29)
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/6.0.1...7.0.0)
 
