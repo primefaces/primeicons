@@ -20,8 +20,8 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.pi:before {
-    --webkit-backface-visibility:hidden;
+.pi[data-3d="true"]:before {
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
 
